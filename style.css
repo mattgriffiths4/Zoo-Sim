@@ -1,0 +1,46 @@
+/* basic setup */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+
+/* reusable components */
+
+.btn {
+  padding: 1rem 2rem;
+  color: white;
+  background-color: red;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-style: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+
+/* header section */
+
+header {
+text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  margin: 5rem 0 3rem 0;
+}
+
+#timer {
+  margin-top: 2rem;
+  background-color: green;
+  width: 20rem;
+}
