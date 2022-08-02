@@ -21,3 +21,12 @@ h1 {
   margin: 5rem 0 3rem 0;
   text-align: center;
 }
+
+
+.clock {
+  background: #333333;
+  width: 20rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 10px;
+}
